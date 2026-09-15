@@ -235,6 +235,7 @@ Haven't had a closer look at what exactly these are, and how they fit into the c
 
 * Hetzner, OVHcloud
 * Digital Ocean, https://www.vultr.com
+- [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
 * GCP, AWS, ..
 
 ## Related articles & blog posts
